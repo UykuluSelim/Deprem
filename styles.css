@@ -1,0 +1,51 @@
+
+.header{
+    text-align: center;
+    font-size: large;
+    font-weight: 150;
+    text-shadow: 2px;
+    font-style: initial;
+   box-decoration-break: slice;
+}
+.paragraph{ 
+    text-align: center;
+    font-style: unset;
+    font-family: "Audiowide", sans-serif;
+    text-decoration: solid;
+    font-weight: 85px;
+    padding-left: 85px;
+    padding-right: 85px;
+    font-size: large;
+}
+.video{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    width: 560;
+    height: 320;
+   
+}
+.video iframe{
+    left:10%; 
+    top:0;
+    height:80%; 
+    width:80%;
+    position:absolute;
+}
+iframe{
+    border-color: black;
+    border-width: 3px;
+    
+}
+
+.footer{
+    text-align: center;
+    color: rgb(0, 0, 0);
+  border-top: 15px;
+  
+}
+ body{
+    background-image: url("https://static01.nyt.com/images/2023/03/07/multimedia/06turkey-quake-photos-01-qlmz/06turkey-quake-photos-01-qlmz-videoSixteenByNine3000.jpg");
+    background-color: #cccc;
+}
+
