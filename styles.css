@@ -48,4 +48,14 @@ iframe{
     background-image: url("https://static01.nyt.com/images/2023/03/07/multimedia/06turkey-quake-photos-01-qlmz/06turkey-quake-photos-01-qlmz-videoSixteenByNine3000.jpg");
     background-color: #cccc;
 }
+button{
+ background-color: gray;
+ border: none;
+ text-align: center;
+ font-size: 15px;
+ display:inline-block
+ }
+ .button {
+ font-style: normal;
+ }
 
