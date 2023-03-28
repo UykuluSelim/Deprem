@@ -57,8 +57,8 @@ iframe{
 }
 .logo{
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: left;
+    align-items: left;
 }
 .topnav a.active{
     background-color:rgb(206, 135, 28);
