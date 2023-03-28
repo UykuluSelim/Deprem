@@ -56,7 +56,7 @@ iframe{
     color: black;
 }
 .logo{
-    display: flex;
+    display: left;
     justify-content: left;
     align-items: left;
 }
