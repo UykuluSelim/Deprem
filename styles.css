@@ -56,11 +56,17 @@ iframe{
     color: black;
 }
 .logo{
+    
+    width: 150px;
+    height: 150px;
     display: flex;
+    border: none;
     justify-content: left;
     align-items: left;
+    background: url(https://www.github.com/UykuluSelim/) no-repeat;
 }
 .topnav a.active{
     background-color:rgb(206, 135, 28);
     color: whitesmoke;
 }
+
