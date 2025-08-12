@@ -60,12 +60,13 @@ iframe{
     
     display: flex;
     border: none;
-    justify-content: left;
-    align-items: left;
+    justify-content: center;
+    align-items: center;
     background: url(https://www.github.com/UykuluSelim/) no-repeat;
 }
 .topnav a.active{
     background-color:rgb(206, 135, 28);
     color: whitesmoke;
 }
+
 
